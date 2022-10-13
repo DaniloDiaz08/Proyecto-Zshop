@@ -1,0 +1,41 @@
+
+.row-two {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col-2-5, .col-5-5 {
+  width: 40%;
+}
+
+.col-3-5, .col-4-5 {
+  width: 60%;
+}
+
+.col-6-2, .col-7-2 {
+  width: 50%;
+}
+
+.row-footer{
+  display: flex;
+  
+}
+
+.col-1-3{
+  width: 34%;
+  margin: 0% 40px 0% 0%;
+}
+
+.t-center{
+  margin: 0% auto;
+}
+
+.row-contact{
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  
+}
+ .col-1-33{
+  width: 400px;
+ }
